@@ -1,0 +1,2 @@
+# This folder is auto-populated when you run the simulation.
+# Outputs: accuracy_graph.png, loss_curve.png, communication_cost.png, logs.txt
